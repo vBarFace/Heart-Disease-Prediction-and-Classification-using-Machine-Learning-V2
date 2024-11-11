@@ -9,13 +9,11 @@
   - **Number**: 97977  
   - **Program**: Computational Engineering, Physics Department  
   - **Email**: [andre.fernandes16@ua.pt](mailto:andre.fernandes16@ua.pt)  
-  - **Work Rate**: 50%
 
 - **Gonçalo Jorge Loureiro de Freitas**  
   - **Number**: 98012  
   - **Program**: Computational Engineering, Physics Department  
   - **Email**: [goncalojfreitas@ua.pt](mailto:goncalojfreitas@ua.pt)  
-  - **Work Rate**: 50%
 
 ---
 
