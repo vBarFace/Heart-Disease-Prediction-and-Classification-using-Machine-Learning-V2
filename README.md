@@ -1,7 +1,7 @@
 # Heart Disease Prediction and Classification using Machine Learning
 
 **Foundations of Artificial Intelligence**  
-**Prof: Petia Georgieva & Eugénio Rocha**  
+**Prof: Petia Georgieva(petia@ua.pt) & Eugénio Rocha(eugenio@ua.pt)**  
 **Academic Year: 2021/22**
 
 ### Contributors
